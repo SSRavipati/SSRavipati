@@ -68,15 +68,4 @@ From designing **security-hardened RAG architectures** with Neo4j to building **
 * **Performance Engineering:** Porting high-throughput data ingestion modules to **Rust** for superior memory safety and concurrency.
 * **Knowledge Graphs:** Exploring the intersection of GNNs (Graph Neural Networks) and LLMs for predictive graph modeling.
 
----
-
-## 📫 Connect & Collaborate
-
-* **Portfolio:** [yourportfolio.dev](https://yourportfolio.dev)
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Email:** [yourname@email.com]
-
----
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical)
